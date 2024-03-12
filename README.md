@@ -40,7 +40,7 @@ Here's a colorful list of some relevant tools I've worked with, in no particular
 
 ## Fun
 Ok, now what I really like doing. I have the most fun making stuff that is procedural, portable, and accessible. I love having maximum control with my projects, so I try to build them from scratch, hence their simplicity (I'm only human).
-If I only had the time and skills I'd make my own version of everything, I might just do that when I retire, if the world hasn't collapsed yet. Here's some tools I'm learning to work with, or thata I want to try in the future:
+If I only had the time and skills I'd make my own version of everything, I might just do that when I retire, if the world hasn't collapsed yet. Here's some tools I'm learning to work with, or that I want to try in the future:
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
