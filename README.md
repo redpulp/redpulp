@@ -58,7 +58,7 @@ I like lists, sorry. Here's some more colors and irrelevant stats:
 
 I'm an advocate for the use and development of FOSS [as defined by the GNU foundation](https://www.gnu.org/philosophy/free-sw.html); software development has only gone so far thanks to the gigantic contribution of people you'll never hear of, it would be selfish and damaging to hide and restrict technological progress under the banner of "intellectual property". Same goes for hardware, ofc, I support [FOSH](https://opensource.com/resources/what-open-hardware?src=open_hardware_resources_menu1) and the Right to repair[^1].
 
-I stand for equality and accessiblity, for the rights of the LGBTQIA+ community, ethnic minorities and disabled people to live a life free of hate and discrimination, for the rights of native peoples to freely inhabit their land (🍉, 🌺).
+I stand for equality and accessiblity, for the rights of the LGBTQIA+ community, ethnic minorities and disabled people to live a life free of hate and discrimination and for the rights of native peoples to freely inhabit their land (🍉, 🌺).
 
 
 
