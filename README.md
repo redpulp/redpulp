@@ -11,6 +11,7 @@ Here's a colorful list of some relevant tools I've worked with, in no particular
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -56,10 +57,15 @@ I like lists, sorry. Here's some more colors and irrelevant stats:
 
 ## What I stand for
 
-I'm an advocate for the use and development of FOSS [as defined by the GNU foundation](https://www.gnu.org/philosophy/free-sw.html); software development has only gone so far thanks to the gigantic contribution of people you'll never hear of, it would be selfish and damaging to hide and restrict technological progress under the banner of "intellectual property". Same goes for hardware, ofc, I support [FOSH](https://opensource.com/resources/what-open-hardware?src=open_hardware_resources_menu1) and the Right to repair[^1].
+I'm an advocate for the use and development of FOSS [as defined by the GNU foundation](https://www.gnu.org/philosophy/free-sw.html); software development has only gone so far thanks to the gigantic contribution of people you'll never hear of, it would be ungrateful towards of all them to hide and restrict technological innovation under the banner of "intellectual property". Same goes for hardware, ofc, I support [FOSH](https://opensource.com/resources/what-open-hardware?src=open_hardware_resources_menu1) and the Right to repair[^1].
 
-I stand for equality and accessiblity, for the rights of the LGBTQIA+ community, ethnic minorities and disabled people to live a life free of hate and discrimination, and for the rights of native peoples to freely inhabit their land (🍉, 🌺).
+My values lie in equality and accessiblity. I stand for the rights of the LGBTQIA+ community, ethnic minorities and disabled people to live a life free of hate and discrimination.
+I support the sovereignty of native populations and their fights against colonialism.
 
+
+
+> Ua Mau ke Ea o ka ʻĀina i ka Pono 🌸
+> <p dir='rtl' align='left'>🍉 من النهر إلى البحر / فلسطين ستتحرر</p>
 
 
 [^1]: Right to repair is a legal right for owners of devices and equipment to freely modify and repair products
