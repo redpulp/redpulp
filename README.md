@@ -2,7 +2,7 @@
 I'm `redpulp` (she/her), a Fullstack Developer with a passion for procedural and physics based graphics. I'm trying to move to a game dev job, but until then, I'll use this account to share some of my experiments.
 
 ## Survival
-In my day-to-day job I work as a webdev and "Cloud Infrastructure Engineer", which usually means that I design and develop all sorts of web based tools and that I set up their infrastructures in the cloud (mostly AWS).
+In my day-to-day job I work as a webdev and "Cloud Infrastructure Engineer", which usually means that I design and develop all sorts of web based tools and that I set up their infrastructures in the cloud.
 My go-to language is Typescript, but I usually sprinkle some Rust and Python on the the projects I work on.
 
 Here's a colorful list of some relevant tools I've worked with, in no particular order:
@@ -41,7 +41,7 @@ Here's a colorful list of some relevant tools I've worked with, in no particular
 
 ## Fun
 Ok, now what I really like doing. I have the most fun making stuff that is procedural, portable, and accessible. I love having maximum control with my projects, so I try to build them from scratch, hence their simplicity (I'm only human).
-If I only had the time and skills I'd make my own version of everything, I might just do that when I retire, if the world hasn't collapsed yet. Here's some tools I'm learning to work with, or that I want to try in the future:
+Here's some tools I'm learning to work with, or that I want to try in the future:
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
